@@ -30,7 +30,7 @@
 <tspan x="10" y="442">  │ ├── csv-stringify@0.0.8 </tspan>
 <tspan x="10" y="458">  │ └── stream-transform@0.1.2 </tspan>
 <tspan x="10" y="474">  ├─┬ dtrace-provider@0.6.0 </tspan>
-<tspan x="10" y="490">  │ └── nan@2.6.1 </tspan>
+<tspan x="10" y="490">  │ └── nan@2.6.2 </tspan>
 <tspan x="10" y="506">  ├── escape-regexp-component@1.0.2 </tspan>
 <tspan x="10" y="522">  ├── formidable@1.1.1 </tspan>
 <tspan x="10" y="538">  ├─┬ http-signature@0.11.0 </tspan>
