@@ -1,6 +1,6 @@
 # npmtest-restify
 
-#### test coverage for  [restify (v4.3.0)](http://restifyjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-restify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-restify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-restify.svg)](https://travis-ci.org/npmtest/node-npmtest-restify)
+#### basic test coverage for  [restify (v4.3.0)](http://restifyjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-restify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-restify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-restify.svg)](https://travis-ci.org/npmtest/node-npmtest-restify)
 
 #### REST framework
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-restify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-restify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-restify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-restify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-restify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-restify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-restify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-restify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-restify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-restify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-restify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-restify/build/coverage.html/index.html)
 
